@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./silvamaniliana00postgoog_0089.png"; bbox 0 0 948 1406; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 49 458 136">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 49 458 136">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 49 458 136; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 200 49 458 136; x_wconf 58' lang='grc' dir='ltr'>ῖῗιῗῖιιιιιιιιιιιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 213 138 447 156">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 213 138 447 156">
+     <span class='ocr_line' id='line_1_2' title="bbox 213 138 447 156; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 213 138 225 156; x_wconf 88' lang='grc'>3</span> <span class='ocrx_word' id='word_1_3' title='bbox 239 138 290 156; x_wconf 75' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_4' title='bbox 305 138 342 156; x_wconf 82' lang='grc'>085</span> <span class='ocrx_word' id='word_1_5' title='bbox 357 138 391 156; x_wconf 90' lang='grc'>211</span> <span class='ocrx_word' id='word_1_6' title='bbox 410 138 447 156; x_wconf 87' lang='grc'>126</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 948 1406">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 948 1406">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 948 1406; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 948 1406; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
